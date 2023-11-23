@@ -1,5 +1,5 @@
 {
-	"name": "eliashaeussler/cache-warmup",
+	"name": "bob8081265/cache-warmup",
 	"description": "Composer package to warm up website caches, based on a given XML sitemap",
 	"license": "GPL-3.0-or-later",
 	"type": "library",
